@@ -15,4 +15,4 @@ app/start/artisan.php file like so:
  Create your own
 ------
 Please refer to the official docs if you like to create your own commands:
-[Laravel 4 Documentation](http://four.laravel.com/docs/eloquent)
+[Laravel 4 Documentation](http://four.laravel.com/docs/commands)
